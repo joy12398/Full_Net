@@ -1,0 +1,736 @@
+{
+"children": null,
+"cluster": 2,
+"id": 0,
+"count": "molecular_function (0.347), binding (0.347), protein binding (0.311), protein dimerization activity (0.378), identical protein binding (0.383), protein homodimerization activity (0.392)",
+"size": 125.0,
+"word": "A2RVQ5"
+},
+{
+"children": null,
+"cluster": 6,
+"id": 1,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349)",
+"size": 125.0,
+"word": "O22456"
+},
+{
+"children": null,
+"cluster": 25,
+"id": 2,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349), sequence-specific DNA binding (0.386)",
+"size": 125.0,
+"word": "O82794"
+},
+{
+"children": null,
+"cluster": 25,
+"id": 3,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349)",
+"size": 125.0,
+"word": "P35631"
+},
+{
+"children": null,
+"cluster": 3,
+"id": 4,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), RNA binding (0.421), translation factor activity, nucleic acid binding (0.411), translation initiation factor activity (0.392), RNA cap binding (0.327), RNA 7-methylguanosine cap binding (0.331)",
+"size": 125.0,
+"word": "O04663"
+},
+{
+"children": null,
+"cluster": 3,
+"id": 5,
+"count": "molecular_function (0.347), catalytic activity (0.290), oxidoreductase activity (0.398), dioxygenase activity (0.382), oxidoreductase activity, acting on single donors with incorporation of molecular oxygen (0.390), oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen (0.329), lipoxygenase activity (0.281)",
+"size": 125.0,
+"word": "P38418"
+},
+{
+"children": null,
+"cluster": 6,
+"id": 6,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349)",
+"size": 125.0,
+"word": "P48007"
+},
+{
+"children": null,
+"cluster": 7,
+"id": 7,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349), sequence-specific DNA binding (0.386), nucleic acid binding transcription factor activity (0.331), sequence-specific DNA binding transcription factor activity (0.331)",
+"size": 125.0,
+"word": "O22763"
+},
+{
+"children": null,
+"cluster": 30,
+"id": 8,
+"count": "molecular_function (0.347), binding (0.347), ion binding (0.231), cation binding (0.265), metal ion binding (0.278), calcium ion binding (0.515)",
+"size": 125.0,
+"word": "P25071"
+},
+{
+"children": null,
+"cluster": 8,
+"id": 9,
+"count": "molecular_function (0.347), catalytic activity (0.290), hydrolase activity (0.284), hydrolase activity, acting on ester bonds (0.343), carboxylic ester hydrolase activity (0.463), methyl jasmonate esterase activity (0.397), methyl salicylate esterase activity (0.405), methyl indole-3-acetate esterase activity (0.400)",
+"size": 125.0,
+"word": "O23171"
+},
+{
+"children": null,
+"cluster": 8,
+"id": 10,
+"count": "molecular_function (0.347), catalytic activity (0.290), hydrolase activity (0.284), hydrolase activity, acting on ester bonds (0.343), carboxylic ester hydrolase activity (0.463), methyl jasmonate esterase activity (0.397), methyl salicylate esterase activity (0.405), methyl indole-3-acetate esterase activity (0.400)",
+"size": 125.0,
+"word": "O80476"
+},
+{
+"children": null,
+"cluster": 9,
+"id": 11,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleoside phosphate binding (0.299), ion binding (0.231), anion binding (0.285), purine ribonucleoside triphosphate binding (0.303), small molecule binding (0.309), protein binding (0.311), protein dimerization activity (0.378), identical protein binding (0.383), protein homodimerization activity (0.392), catalytic activity (0.290), hydrolase activity (0.284), hydrolase activity, acting on acid anhydrides (0.291), hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides (0.291), pyrophosphatase activity (0.291), nucleoside-triphosphatase activity (0.313), GTPase activity (0.316), nucleoside binding (0.290), ribonucleoside binding (0.289), purine nucleoside binding (0.290), purine ribonucleoside binding (0.289), nucleotide binding (0.266), ribonucleotide binding (0.271), purine nucleotide binding (0.272), purine ribonucleotide binding (0.268), guanyl nucleotide binding (0.468), guanyl ribonucleotide binding (0.466), GTP binding (0.443)",
+"size": 125.0,
+"word": "O23680"
+},
+{
+"children": null,
+"cluster": 9,
+"id": 12,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor activity (0.416), signaling receptor activity (0.358), transmembrane signaling receptor activity (0.371), catalytic activity (0.290), hydrolase activity (0.284), hydrolase activity, acting on acid anhydrides (0.291), hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides (0.291), pyrophosphatase activity (0.291), nucleoside-triphosphatase activity (0.313), GTPase activity (0.316)",
+"size": 125.0,
+"word": "O81283"
+},
+{
+"children": null,
+"cluster": 10,
+"id": 13,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349), structure-specific DNA binding (0.382), double-stranded DNA binding (0.420)",
+"size": 125.0,
+"word": "O24646"
+},
+{
+"children": null,
+"cluster": 29,
+"id": 14,
+"count": "molecular_function (0.347), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "P43254"
+},
+{
+"children": null,
+"cluster": 11,
+"id": 15,
+"count": "molecular_function (0.347), catalytic activity (0.290), oxidoreductase activity (0.398), oxidoreductase activity, acting on NAD(P)H (0.338), NADPH dehydrogenase activity (0.227)",
+"size": 125.0,
+"word": "O48741"
+},
+{
+"children": null,
+"cluster": 11,
+"id": 16,
+"count": "molecular_function (0.347), transporter activity (0.436), substrate-specific transporter activity (0.452), protein transporter activity (0.360), transmembrane transporter activity (0.443), substrate-specific transmembrane transporter activity (0.448), macromolecule transmembrane transporter activity (0.337), protein transmembrane transporter activity (0.292), active transmembrane transporter activity (0.496), primary active transmembrane transporter activity (0.451), P-P-bond-hydrolysis-driven transmembrane transporter activity (0.450), P-P-bond-hydrolysis-driven protein transmembrane transporter activity (0.284)",
+"size": 125.0,
+"word": "P82874"
+},
+{
+"children": null,
+"cluster": 13,
+"id": 17,
+"count": "molecular_function (0.347), binding (0.347), ion binding (0.231), anion binding (0.285), carboxylic acid binding (0.416), monocarboxylic acid binding (0.460), hormone binding (0.526), small molecule binding (0.309), alcohol binding (0.464), lipid binding (0.333), isoprenoid binding (0.395), abscisic acid binding (0.247), protein binding (0.311), protein dimerization activity (0.378), identical protein binding (0.383), protein homodimerization activity (0.392), receptor activity (0.416)",
+"size": 125.0,
+"word": "O49686"
+},
+{
+"children": null,
+"cluster": 23,
+"id": 18,
+"count": "molecular_function (0.347), catalytic activity (0.290), hydrolase activity (0.284), hydrolase activity, acting on ester bonds (0.343), phosphoric ester hydrolase activity (0.365), phosphatase activity (0.353), phosphoprotein phosphatase activity (0.327), protein serine/threonine phosphatase activity (0.364)",
+"size": 125.0,
+"word": "P49597"
+},
+{
+"children": null,
+"cluster": 24,
+"id": 19,
+"count": "molecular_function (0.347), catalytic activity (0.290), hydrolase activity (0.284), hydrolase activity, acting on ester bonds (0.343), phosphoric ester hydrolase activity (0.365), phosphatase activity (0.353), phosphoprotein phosphatase activity (0.327), protein serine/threonine phosphatase activity (0.364)",
+"size": 125.0,
+"word": "P49598"
+},
+{
+"children": null,
+"cluster": 14,
+"id": 20,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316)",
+"size": 125.0,
+"word": "O64682"
+},
+{
+"children": null,
+"cluster": 15,
+"id": 21,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, phosphate group as acceptor (0.273), kinase activity (0.275), nucleobase-containing compound kinase activity (0.285), nucleoside diphosphate kinase activity (0.195)",
+"size": 125.0,
+"word": "O64903"
+},
+{
+"children": null,
+"cluster": 27,
+"id": 22,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor activity (0.416), signaling receptor activity (0.358), photoreceptor activity (0.412), red or far-red light photoreceptor activity (0.393), far-red light photoreceptor activity (0.331)",
+"size": 125.0,
+"word": "P14712"
+},
+{
+"children": null,
+"cluster": 16,
+"id": 23,
+"count": "molecular_function (0.347), binding (0.347), ion binding (0.231), cation binding (0.265), metal ion binding (0.278), transition metal ion binding (0.342), copper ion binding (0.521)",
+"size": 125.0,
+"word": "O65282"
+},
+{
+"children": null,
+"cluster": 16,
+"id": 24,
+"count": "molecular_function (0.347), antioxidant activity (0.395), binding (0.347), ion binding (0.231), cation binding (0.265), metal ion binding (0.278), transition metal ion binding (0.342), copper ion binding (0.521), catalytic activity (0.290), oxidoreductase activity (0.398), oxidoreductase activity, acting on superoxide radicals as acceptor (0.370), superoxide dismutase activity (0.291)",
+"size": 125.0,
+"word": "P21276"
+},
+{
+"children": null,
+"cluster": 17,
+"id": 25,
+"count": "molecular_function (0.347), catalytic activity (0.290), hydrolase activity (0.284), peptidase activity (0.345), peptidase activity, acting on L-amino acid peptides (0.339), endopeptidase activity (0.414)",
+"size": 125.0,
+"word": "O65390"
+},
+{
+"children": null,
+"cluster": 17,
+"id": 26,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349), sequence-specific DNA binding (0.386)",
+"size": 125.0,
+"word": "P48731"
+},
+{
+"children": null,
+"cluster": 20,
+"id": 27,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349)",
+"size": 125.0,
+"word": "O80536"
+},
+{
+"children": null,
+"cluster": 29,
+"id": 28,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor activity (0.416), signaling receptor activity (0.358), photoreceptor activity (0.412), red or far-red light photoreceptor activity (0.393), red light photoreceptor activity (0.346), far-red light photoreceptor activity (0.331)",
+"size": 125.0,
+"word": "P14713"
+},
+{
+"children": null,
+"cluster": 29,
+"id": 29,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor activity (0.416), signaling receptor activity (0.358), photoreceptor activity (0.412), red or far-red light photoreceptor activity (0.393)",
+"size": 125.0,
+"word": "P42497"
+},
+{
+"children": null,
+"cluster": 21,
+"id": 30,
+"count": "molecular_function (0.347), binding (0.347), protein binding (0.311), calmodulin binding (0.502), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316), calmodulin-dependent protein kinase activity (0.344)",
+"size": 125.0,
+"word": "O80673"
+},
+{
+"children": null,
+"cluster": 21,
+"id": 31,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349)",
+"size": 125.0,
+"word": "P41151"
+},
+{
+"children": null,
+"cluster": 23,
+"id": 32,
+"count": "molecular_function (0.347), receptor activity (0.416)",
+"size": 125.0,
+"word": "O80920"
+},
+{
+"children": null,
+"cluster": 24,
+"id": 33,
+"count": "molecular_function (0.347), binding (0.347), protein binding (0.311), protein dimerization activity (0.378), identical protein binding (0.383), protein homodimerization activity (0.392), receptor activity (0.416)",
+"size": 125.0,
+"word": "O80992"
+},
+{
+"children": null,
+"cluster": 26,
+"id": 34,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316)",
+"size": 125.0,
+"word": "O82798"
+},
+{
+"children": null,
+"cluster": 30,
+"id": 35,
+"count": "molecular_function (0.347), catalytic activity (0.290), hydrolase activity (0.284), hydrolase activity, acting on acid anhydrides (0.291), hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides (0.291), pyrophosphatase activity (0.291), nucleoside-triphosphatase activity (0.313), ATPase activity (0.387)",
+"size": 125.0,
+"word": "P55737"
+},
+{
+"children": null,
+"cluster": 31,
+"id": 36,
+"count": "molecular_function (0.347), transporter activity (0.436), substrate-specific transporter activity (0.452), transmembrane transporter activity (0.443), substrate-specific transmembrane transporter activity (0.448), water transmembrane transporter activity (0.499), passive transmembrane transporter activity (0.470), channel activity (0.470), substrate-specific channel activity (0.483), water channel activity (0.480)",
+"size": 125.0,
+"word": "P30302"
+},
+{
+"children": null,
+"cluster": 31,
+"id": 37,
+"count": "molecular_function (0.347), transporter activity (0.436), substrate-specific transporter activity (0.452), transmembrane transporter activity (0.443), substrate-specific transmembrane transporter activity (0.448), water transmembrane transporter activity (0.499), passive transmembrane transporter activity (0.470), channel activity (0.470), substrate-specific channel activity (0.483), water channel activity (0.480)",
+"size": 125.0,
+"word": "P61837"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 38,
+"count": "molecular_function (0.347), binding (0.347), binding, bridging (0.386), protein binding (0.311), SMAD binding (0.381), protein binding, bridging (0.389), clathrin binding (0.469), clathrin adaptor activity (0.336), receptor activity (0.416), cargo receptor activity (0.414)",
+"size": 125.0,
+"word": "P98082"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 39,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor signaling protein activity (0.421), transforming growth factor beta receptor, cytoplasmic mediator activity (0.376), transforming growth factor beta receptor, pathway-specific cytoplasmic mediator activity (0.359), nucleic acid binding transcription factor activity (0.331), sequence-specific DNA binding transcription factor activity (0.331)",
+"size": 125.0,
+"word": "Q15796"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 40,
+"count": "molecular_function (0.347), binding (0.347), protein binding (0.311), protein dimerization activity (0.378), protein heterodimerization activity (0.376), beta-catenin binding (0.394)",
+"size": 125.0,
+"word": "Q92997"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 41,
+"count": "molecular_function (0.347), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "Q9HAU4"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 42,
+"count": "molecular_function (0.347), binding (0.347), protein binding (0.311), cytoskeletal protein binding (0.356), actin binding (0.404), actin filament binding (0.453)",
+"size": 125.0,
+"word": "Q9UM54"
+},
+{
+"children": null,
+"cluster": 36,
+"id": 43,
+"count": "molecular_function (0.347), nucleic acid binding transcription factor activity (0.331), sequence-specific DNA binding transcription factor activity (0.331)",
+"size": 125.0,
+"word": "P98168"
+},
+{
+"children": null,
+"cluster": 36,
+"id": 44,
+"count": "molecular_function (0.347), nucleic acid binding transcription factor activity (0.331), sequence-specific DNA binding transcription factor activity (0.331)",
+"size": 125.0,
+"word": "Q2QGD7"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 45,
+"count": "molecular_function (0.347), enzyme regulator activity (0.248), peptidase regulator activity (0.420), endopeptidase regulator activity (0.459), cysteine-type endopeptidase regulator activity involved in apoptotic process (0.354), enzyme inhibitor activity (0.362), peptidase inhibitor activity (0.451), endopeptidase inhibitor activity (0.448), cysteine-type endopeptidase inhibitor activity (0.400), cysteine-type endopeptidase inhibitor activity involved in apoptotic process (0.311), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "P98170"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 46,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316)",
+"size": 125.0,
+"word": "Q13546"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 47,
+"count": "molecular_function (0.347), binding (0.347), ion binding (0.231), cation binding (0.265), metal ion binding (0.278), transition metal ion binding (0.342), zinc ion binding (0.385), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "Q8IUQ4"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 48,
+"count": "molecular_function (0.347), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "Q8WVN8"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 49,
+"count": "molecular_function (0.347), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "Q96B02"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 50,
+"count": "molecular_function (0.347), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ISG15 ligase activity (0.322), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "Q96LR5"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 51,
+"count": "molecular_function (0.347), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "Q9Y2X8"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 52,
+"count": "molecular_function (0.347), catalytic activity (0.290), ligase activity (0.246), ligase activity, forming carbon-nitrogen bonds (0.241), acid-amino acid ligase activity (0.253), small conjugating protein ligase activity (0.251), ubiquitin-protein ligase activity (0.253)",
+"size": 125.0,
+"word": "Q9Y4K3"
+},
+{
+"children": null,
+"cluster": 68,
+"id": 53,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316), protein binding transcription factor activity (0.315), transcription factor binding transcription factor activity (0.316), transcription cofactor activity (0.315), transcription coactivator activity (0.344)",
+"size": 125.0,
+"word": "Q9Y572"
+},
+{
+"children": null,
+"cluster": 46,
+"id": 54,
+"count": "molecular_function (0.347), binding (0.347), protein binding (0.311), receptor binding (0.359), ephrin receptor binding (0.263)",
+"size": 125.0,
+"word": "P98172"
+},
+{
+"children": null,
+"cluster": 46,
+"id": 55,
+"count": "molecular_function (0.347), binding (0.347), protein binding (0.311), protein domain specific binding (0.379), POZ domain binding (0.275)",
+"size": 125.0,
+"word": "Q13618"
+},
+{
+"children": null,
+"cluster": 46,
+"id": 56,
+"count": "molecular_function (0.347), catalytic activity (0.290), hydrolase activity (0.284), peptidase activity (0.345), peptidase activity, acting on L-amino acid peptides (0.339), cysteine-type peptidase activity (0.386), endopeptidase activity (0.414), cysteine-type endopeptidase activity (0.410), calcium-dependent cysteine-type endopeptidase activity (0.384)",
+"size": 125.0,
+"word": "Q9HC96"
+},
+{
+"children": null,
+"cluster": 47,
+"id": 57,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349), sequence-specific DNA binding (0.386)",
+"size": 125.0,
+"word": "P98177"
+},
+{
+"children": null,
+"cluster": 47,
+"id": 58,
+"count": "molecular_function (0.347), protein binding transcription factor activity (0.315), transcription factor binding transcription factor activity (0.316), transcription cofactor activity (0.315), transcription corepressor activity (0.356)",
+"size": 125.0,
+"word": "Q96EB6"
+},
+{
+"children": null,
+"cluster": 48,
+"id": 59,
+"count": "molecular_function (0.347), catalytic activity (0.290), oxidoreductase activity (0.398), oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen (0.374), monooxygenase activity (0.370), oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen (0.349), alkane 1-monooxygenase activity (0.339)",
+"size": 125.0,
+"word": "P98187"
+},
+{
+"children": null,
+"cluster": 48,
+"id": 60,
+"count": "molecular_function (0.347), enzyme regulator activity (0.248), enzyme activator activity (0.315)",
+"size": 125.0,
+"word": "Q9UJU6"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 61,
+"count": "molecular_function (0.347), electron carrier activity (0.424), electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity (0.282), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), tetrapyrrole binding (0.444), heme binding (0.403)",
+"size": 125.0,
+"word": "P99999"
+},
+{
+"children": null,
+"cluster": 64,
+"id": 62,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor signaling protein activity (0.421), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316), receptor signaling protein serine/threonine kinase activity (0.263), NF-kappaB-inducing kinase activity (0.193)",
+"size": 125.0,
+"word": "Q14164"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 63,
+"count": "molecular_function (0.347), enzyme regulator activity (0.248), enzyme inhibitor activity (0.362), telomerase inhibitor activity (0.275), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), RNA binding (0.421), telomeric RNA binding (0.413)",
+"size": 125.0,
+"word": "Q96BK5"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 64,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor activity (0.416), signaling receptor activity (0.358), transmembrane signaling receptor activity (0.371)",
+"size": 125.0,
+"word": "Q9UBN6"
+},
+{
+"children": null,
+"cluster": 64,
+"id": 65,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316)",
+"size": 125.0,
+"word": "Q9UKE5"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 66,
+"count": "molecular_function (0.347), antioxidant activity (0.395), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring alkyl or aryl (other than methyl) groups (0.316), glutathione transferase activity (0.268), oxidoreductase activity (0.398), oxidoreductase activity, acting on peroxide as acceptor (0.345), peroxidase activity (0.296), glutathione peroxidase activity (0.203)",
+"size": 125.0,
+"word": "Q9Y2Q3"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 67,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301)",
+"size": 125.0,
+"word": "Q9Y478"
+},
+{
+"children": null,
+"cluster": 56,
+"id": 68,
+"count": "molecular_function (0.347), enzyme regulator activity (0.248), phosphatase regulator activity (0.391), protein phosphatase regulator activity (0.390), protein phosphatase type 2A regulator activity (0.393)",
+"size": 125.0,
+"word": "Q00005"
+},
+{
+"children": null,
+"cluster": 56,
+"id": 69,
+"count": "molecular_function (0.347), enzyme regulator activity (0.248), kinase regulator activity (0.419), protein kinase regulator activity (0.413), enzyme activator activity (0.315), kinase activator activity (0.413), protein kinase activator activity (0.414), protein tyrosine kinase activator activity (0.338), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316)",
+"size": 125.0,
+"word": "Q13177"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 70,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, phosphate group as acceptor (0.273), kinase activity (0.275), nucleobase-containing compound kinase activity (0.285), nucleotide kinase activity (0.280), guanylate kinase activity (0.203)",
+"size": 125.0,
+"word": "Q00013"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 71,
+"count": "molecular_function (0.347), enzyme regulator activity (0.248), kinase regulator activity (0.419), protein kinase regulator activity (0.413), enzyme activator activity (0.315), kinase activator activity (0.413), protein kinase activator activity (0.414), protein serine/threonine kinase activator activity (0.426), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleoside phosphate binding (0.299), ion binding (0.231), cation binding (0.265), metal ion binding (0.278), anion binding (0.285), purine ribonucleoside triphosphate binding (0.303), small molecule binding (0.309), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316), nucleoside binding (0.290), ribonucleoside binding (0.289), purine nucleoside binding (0.290), purine ribonucleoside binding (0.289), magnesium ion binding (0.416), nucleotide binding (0.266), ribonucleotide binding (0.271), purine nucleotide binding (0.272), purine ribonucleotide binding (0.268), adenyl nucleotide binding (0.272), adenyl ribonucleotide binding (0.267), ATP binding (0.247)",
+"size": 125.0,
+"word": "Q13188"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 72,
+"count": "molecular_function (0.347), enzyme regulator activity (0.248), peptidase regulator activity (0.420), endopeptidase regulator activity (0.459), cysteine-type endopeptidase regulator activity involved in apoptotic process (0.354), enzyme inhibitor activity (0.362), peptidase inhibitor activity (0.451), endopeptidase inhibitor activity (0.448), cysteine-type endopeptidase inhibitor activity (0.400), cysteine-type endopeptidase inhibitor activity involved in apoptotic process (0.311), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316)",
+"size": 125.0,
+"word": "Q15418"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 73,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor signaling protein activity (0.421), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleoside phosphate binding (0.299), ion binding (0.231), cation binding (0.265), metal ion binding (0.278), anion binding (0.285), purine ribonucleoside triphosphate binding (0.303), small molecule binding (0.309), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), protein serine/threonine kinase activity (0.316), receptor signaling protein serine/threonine kinase activity (0.263), MAP kinase kinase kinase activity (0.218), nucleoside binding (0.290), ribonucleoside binding (0.289), purine nucleoside binding (0.290), purine ribonucleoside binding (0.289), magnesium ion binding (0.416), nucleotide binding (0.266), ribonucleotide binding (0.271), purine nucleotide binding (0.272), purine ribonucleotide binding (0.268), adenyl nucleotide binding (0.272), adenyl ribonucleotide binding (0.267), ATP binding (0.247)",
+"size": 125.0,
+"word": "Q9NYL2"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 74,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301)",
+"size": 125.0,
+"word": "Q9UK32"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 75,
+"count": "molecular_function (0.347), binding (0.347), binding, bridging (0.386), protein binding (0.311), misfolded protein binding (0.341), SMAD binding (0.381), heat shock protein binding (0.322), Hsp90 protein binding (0.321), Hsp70 protein binding (0.300), protein binding, bridging (0.389), protein domain specific binding (0.379), TPR domain binding (0.241)",
+"size": 125.0,
+"word": "Q9UNE7"
+},
+{
+"children": null,
+"cluster": 64,
+"id": 76,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349), DNA binding, bending (0.370), chromatin binding (0.400), nucleic acid binding transcription factor activity (0.331), sequence-specific DNA binding transcription factor activity (0.331), regulatory region nucleic acid binding (0.366), regulatory region DNA binding (0.363), transcription regulatory region DNA binding (0.356), mitochondrial light strand promoter sense binding (0.247)",
+"size": 125.0,
+"word": "Q00059"
+},
+{
+"children": null,
+"cluster": 64,
+"id": 77,
+"count": "molecular_function (0.347), protein binding transcription factor activity (0.315), transcription factor binding transcription factor activity (0.316), transcription cofactor activity (0.315)",
+"size": 125.0,
+"word": "Q9H5Q4"
+},
+{
+"children": null,
+"cluster": 66,
+"id": 78,
+"count": "molecular_function (0.347), transporter activity (0.436), substrate-specific transporter activity (0.452), lipid transporter activity (0.439), phospholipid transporter activity (0.365), phosphatidylinositol transporter activity (0.352), transmembrane transporter activity (0.443), phosphate transmembrane transporter activity (0.425), organic hydroxy compound transmembrane transporter activity (0.381), substrate-specific transmembrane transporter activity (0.448), alcohol transmembrane transporter activity (0.315), ion transmembrane transporter activity (0.450), anion transmembrane transporter activity (0.461), organic anion transmembrane transporter activity (0.424), cation transmembrane transporter activity (0.453), organic cation transmembrane transporter activity (0.316), quaternary ammonium group transmembrane transporter activity (0.228), phosphatidylcholine transporter activity (0.109)",
+"size": 125.0,
+"word": "Q00169"
+},
+{
+"children": null,
+"cluster": 66,
+"id": 79,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleoside phosphate binding (0.299), ion binding (0.231), anion binding (0.285), purine ribonucleoside triphosphate binding (0.303), small molecule binding (0.309), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, phosphate group as acceptor (0.273), kinase activity (0.275), phosphomevalonate kinase activity (0.161), nucleoside binding (0.290), ribonucleoside binding (0.289), purine nucleoside binding (0.290), purine ribonucleoside binding (0.289), nucleotide binding (0.266), ribonucleotide binding (0.271), purine nucleotide binding (0.272), purine ribonucleotide binding (0.268), adenyl nucleotide binding (0.272), adenyl ribonucleotide binding (0.267), ATP binding (0.247)",
+"size": 125.0,
+"word": "Q15126"
+},
+{
+"children": null,
+"cluster": 66,
+"id": 80,
+"count": "molecular_function (0.347), binding (0.347), ion binding (0.231), cation binding (0.265), metal ion binding (0.278), transition metal ion binding (0.342), zinc ion binding (0.385), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring glycosyl groups (0.328), transferase activity, transferring pentosyl groups (0.298), NAD+ ADP-ribosyltransferase activity (0.267)",
+"size": 125.0,
+"word": "Q9NTG7"
+},
+{
+"children": null,
+"cluster": 68,
+"id": 81,
+"count": "molecular_function (0.347), transporter activity (0.436), substrate-specific transporter activity (0.452), transmembrane transporter activity (0.443), substrate-specific transmembrane transporter activity (0.448), ion transmembrane transporter activity (0.450), anion transmembrane transporter activity (0.461), inorganic anion transmembrane transporter activity (0.445), phosphate ion transmembrane transporter activity (0.392), phosphate ion carrier activity (0.264)",
+"size": 125.0,
+"word": "Q00325"
+},
+{
+"children": null,
+"cluster": 68,
+"id": 82,
+"count": "molecular_function (0.347), binding (0.347), binding, bridging (0.386)",
+"size": 125.0,
+"word": "Q15628"
+},
+{
+"children": null,
+"cluster": 70,
+"id": 83,
+"count": "molecular_function (0.347), binding (0.347), lipid binding (0.333)",
+"size": 125.0,
+"word": "Q00341"
+},
+{
+"children": null,
+"cluster": 70,
+"id": 84,
+"count": "molecular_function (0.347), enzyme regulator activity (0.248), nucleoside-triphosphatase regulator activity (0.343), GTPase regulator activity (0.340), guanyl-nucleotide exchange factor activity (0.373), small GTPase regulator activity (0.382), Ras guanyl-nucleotide exchange factor activity (0.356), Rho guanyl-nucleotide exchange factor activity (0.350), enzyme activator activity (0.315), GTPase activator activity (0.360), Ras GTPase activator activity (0.372), Rho GTPase activator activity (0.379)",
+"size": 125.0,
+"word": "Q07889"
+},
+{
+"children": null,
+"cluster": 70,
+"id": 85,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), receptor signaling protein activity (0.421), transforming growth factor beta receptor, cytoplasmic mediator activity (0.376), transforming growth factor beta receptor, common-partner cytoplasmic mediator activity (0.348), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349), sequence-specific DNA binding (0.386), regulatory region nucleic acid binding (0.366), regulatory region DNA binding (0.363), transcription regulatory region DNA binding (0.356), core promoter proximal region DNA binding (0.405), transcription regulatory region sequence-specific DNA binding (0.392), core promoter proximal region sequence-specific DNA binding (0.384)",
+"size": 125.0,
+"word": "Q13485"
+},
+{
+"children": null,
+"cluster": 72,
+"id": 86,
+"count": "molecular_function (0.347), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), cyclin-dependent protein kinase activity (0.264), protein serine/threonine kinase activity (0.316), cyclin-dependent protein serine/threonine kinase activity (0.254)",
+"size": 125.0,
+"word": "Q00526"
+},
+{
+"children": null,
+"cluster": 72,
+"id": 87,
+"count": "molecular_function (0.347), molecular transducer activity (0.333), signal transducer activity (0.333), binding (0.347), lipid binding (0.333), drug binding (0.365), receptor activity (0.416), signaling receptor activity (0.358), steroid hormone receptor activity (0.233)",
+"size": 125.0,
+"word": "Q07869"
+},
+{
+"children": null,
+"cluster": 72,
+"id": 88,
+"count": "molecular_function (0.347), catalytic activity (0.290), hydrolase activity (0.284), hydrolase activity, acting on ester bonds (0.343), phosphoric ester hydrolase activity (0.365), phosphatase activity (0.353), phosphoprotein phosphatase activity (0.327), protein tyrosine/serine/threonine phosphatase activity (0.337), protein tyrosine phosphatase activity (0.310), protein serine/threonine phosphatase activity (0.364)",
+"size": 125.0,
+"word": "Q16667"
+},
+{
+"children": null,
+"cluster": 74,
+"id": 89,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleoside phosphate binding (0.299), ion binding (0.231), anion binding (0.285), purine ribonucleoside triphosphate binding (0.303), small molecule binding (0.309), catalytic activity (0.290), transferase activity (0.264), transferase activity, transferring phosphorus-containing groups (0.274), phosphotransferase activity, alcohol group as acceptor (0.295), kinase activity (0.275), protein kinase activity (0.301), cyclin-dependent protein kinase activity (0.264), protein serine/threonine kinase activity (0.316), cyclin-dependent protein serine/threonine kinase activity (0.254), nucleoside binding (0.290), ribonucleoside binding (0.289), purine nucleoside binding (0.290), purine ribonucleoside binding (0.289), nucleotide binding (0.266), ribonucleotide binding (0.271), purine nucleotide binding (0.272), purine ribonucleotide binding (0.268), adenyl nucleotide binding (0.272), adenyl ribonucleotide binding (0.267), ATP binding (0.247)",
+"size": 125.0,
+"word": "Q00534"
+},
+{
+"children": null,
+"cluster": 74,
+"id": 90,
+"count": "molecular_function (0.347), binding (0.347), heterocyclic compound binding (0.367), organic cyclic compound binding (0.369), nucleic acid binding (0.393), DNA binding (0.349), ion binding (0.231), cation binding (0.265), metal ion binding (0.278), calcium ion binding (0.515), protein binding (0.311), protein dimerization activity (0.378), protein heterodimerization activity (0.376), identical protein binding (0.383), protein homodimerization activity (0.392), transcription factor binding (0.402), nucleic acid binding transcription factor activity (0.331), sequence-specific DNA binding transcription factor activity (0.331), regulatory region nucleic acid binding (0.366), regulatory region DNA binding (0.363)",
+"size": 125.0,
+"word": "Q01196"
+},
+{
+"children": null,
+"cluster": 74,
+"id": 91,
+"count": "molecular_function (0.347), binding (0.347), protein binding (0.311), unfolded protein binding (0.402)",
+"size": 125.0,
+"word": "Q16543"
+},
